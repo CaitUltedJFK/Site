@@ -1,0 +1,79 @@
+[
+    {
+        "nom": "Bambouské le Camouflé",
+        "type": "Bambouto"
+    },
+    {
+        "nom": "Corpat le Vampire",
+        "type": "Corbac"
+    },
+    {
+        "nom": "Pichduitre le Totem",
+        "type": "Pichon Blanc"
+    },
+    {
+        "nom": "Pichdourse le Puissant",
+        "type": "Pichon Bleu"
+    },
+    {
+        "nom": "Pichtoire l'Erudit",
+        "type": "Pichon Orange"
+    },
+    {
+        "nom": "Pichakoté le Dégoutant",
+        "type": "Pichon Vert"
+    },
+    {
+        "nom": "Maître Amboat le Moqueur",
+        "type": "Maître Vampire"
+    },
+    {
+        "nom": "Buldeflore le Pénétrant",
+        "type": "Bulbiflore"
+    },
+    {
+        "nom": "Fourapin le Chaud",
+        "type": "Fourbasse"
+    },
+    {
+        "nom": "Milipatte la Griffe",
+        "type": "Milimulou"
+    },
+    {
+        "nom": "Minoskour le Sauveur",
+        "type": "Minoskito"
+    },
+    {
+        "nom": "Neufedur le Flottant",
+        "type": "Noeul"
+    },
+    {
+        "nom": "Tortilleur le Coulé",
+        "type": "Tortue Verte"
+    },
+    {
+        "nom": "Bwormage le Respectueux",
+        "type": "Bwork Mage"
+    },
+    {
+        "nom": "Wagnagnah le Sanglant",
+        "type": "Black Wabbit"
+    },
+    {
+        "nom": "Crognan le Barbare",
+        "type": "Croc gland enragé"
+    },
+    {
+        "nom": "Rostensyl la Cuisinière",
+        "type": "Rose Obscure"
+    },
+    {
+        "nom": "Minsinistre l'Elu",
+        "type": "Mineur Sombre"
+    },
+    {
+        "nom": "Barchwork le Multicolore",
+        "type": "Bwork Archer"
+    }
+]
+    
