@@ -78,6 +78,562 @@
     {
         "nom": "Araknay la Galopante",
         "type": "Arakne Agressive"
+    },
+    {
+        "nom": "Bandapar l'Exclus",
+        "type": "Bandit Manchot"
+    },
+    {
+        "nom": "Roz la Magicienne",
+        "type": "Rose Démoniaque"
+    },
+    {
+        "nom": "Gelanal le Huileux",
+        "type": "Gelée Bleue"
+    },
+    {
+        "nom": "Kwoanneur le Frimeur",
+        "type": "Kwoan"
+    },
+    {
+        "nom": "Larchimaide la Poussée",
+        "type": "Larve Verte"
+    },
+    {
+        "nom": "Boufdégou le Refoulant",
+        "type": "Bouftou"
+    },
+    {
+        "nom": "Kolforthe l'Indécollable",
+        "type": "Kolérat"
+    },
+    {
+        "nom": "Geloliaine l'Aérien",
+        "type": "Gelée Menthe"
+    },
+    {
+        "nom": "Larvapstrè le Subjectif",
+        "type": "Larve Orange"
+    },
+    {
+        "nom": "Serpistol l'Illustre",
+        "type": "Serpentin"
+    },
+    {
+        "nom": "Tiwa'Missou le Gateux",
+        "type": "Black Tiwabbit"
+    },
+    {
+        "nom": "Boudur le Raide",
+        "type": "Boulanger sombre"
+    },
+    {
+        "nom": "Tiwalpé le Dévêtu",
+        "type": "Tiwabbit"
+    },
+    {
+        "nom": "Tiwoflan le Lâche",
+        "type": "Tiwabbit Kiaffin"
+    },
+    {
+        "nom": "Tour le Vice",
+        "type": "Tournesol Sauvage"
+    },
+    {
+        "nom": "Bandson le Tonitruant",
+        "type": "Bandit du Clan des Roublards"
+    },
+    {
+        "nom": "Gobstiniais le Têtu",
+        "type": "Gobelin"
+    },
+    {
+        "nom": "Nodkoku le Trahi",
+        "type": "Nodkoko"
+    },
+    {
+        "nom": "Tikosto le Mousse",
+        "type": "Tikoko"
+    },
+    {
+        "nom": "Trukul le Lent",
+        "type": "Trukikol"
+    },
+    {
+        "nom": "Sangria le Fruité",
+        "type": "Sanglier"
+    },
+    {
+        "nom": "Champayr le Disjoncté",
+        "type": "Champa Vert"
+    },
+    {
+        "nom": "Citassaté le Service",
+        "type": "Citwouille"
+    },
+    {
+        "nom": "Vampunor le Glacial",
+        "type": "Vampire"
+    },
+    {
+        "nom": "Bilvoezé le Bonimenteur",
+        "type": "Biblop Coco"
+    },
+    {
+        "nom": "Bi le Partageur",
+        "type": "Biblop Griotte"
+    },
+    {
+        "nom": "Bistou le Quêteur",
+        "type": "Biblop Indigo"
+    },
+    {
+        "nom": "Bistou le Rieur",
+        "type": "Biblop Reinette"
+    },
+    {
+        "nom": "Chevaustine le Reconstruit",
+        "type": "Chevaucheur de Karne"
+    },
+    {
+        "nom": "Milipussien le Géant",
+        "type": "Milirat d'Egoutant Malade"
+    },
+    {
+        "nom": "Pioukas la Plante",
+        "type": "Piou Vert"
+    },
+    {
+        "nom": "Boostif l'Affamé",
+        "type": "Boo"
+    },
+    {
+        "nom": "Preskapwal le Tendancieux",
+        "type": "Prespic"
+    },
+    {
+        "nom": "Chonstip la Passagère",
+        "type": "Cochon de Lait"
+    },
+    {
+        "nom": "Torthur la Lutte",
+        "type": "Tortue Jaune"
+    },
+    {
+        "nom": "Wabbitud le Constant",
+        "type": "Wabbit"
+    },
+    {
+        "nom": "Porfavor le Quémandeur",
+        "type": "Berger Porkass"
+    },
+    {
+        "nom": "Bulleur le Dormeur",
+        "type": "Bulbambou"
+    },
+    {
+        "nom": "Bouflet le Puéril",
+        "type": "Chef de Guerre Bouftou"
+    },
+    {
+        "nom": "Cromikay le Néophyte",
+        "type": "Croc gland"
+    },
+    {
+        "nom": "Tortenssia la Fleurie",
+        "type": "Tortue Bleue"
+    },
+    {
+        "nom": "Bambouské le Camouflé",
+        "type": "Bambouto"
+    },
+    {
+        "nom": "Corpat le Vampire",
+        "type": "Corbac"
+    },
+    {
+        "nom": "Pichduitre le Totem",
+        "type": "Pichon Blanc"
+    },
+    {
+        "nom": "Pichdourse le Puissant",
+        "type": "Pichon Bleu"
+    },
+    {
+        "nom": "Pichtoire l'Erudit",
+        "type": "Pichon Orange"
+    },
+    {
+        "nom": "Pichakoté le Dégoutant",
+        "type": "Pichon Vert"
+    },
+    {
+        "nom": "Maître Amboat le Moqueur",
+        "type": "Maître Vampire"
+    },
+    {
+        "nom": "Buldeflore le Pénétrant",
+        "type": "Bulbiflore"
+    },
+    {
+        "nom": "Fourapin le Chaud",
+        "type": "Fourbasse"
+    },
+    {
+        "nom": "Milipatte la Griffe",
+        "type": "Milimulou"
+    },
+    {
+        "nom": "Minoskour le Sauveur",
+        "type": "Minoskito"
+    },
+    {
+        "nom": "Neufedur le Flottant",
+        "type": "Noeul"
+    },
+    {
+        "nom": "Tortilleur le Coulé",
+        "type": "Tortue Verte"
+    },
+    {
+        "nom": "Bwormage le Respectueux",
+        "type": "Bwork Mage"
+    },
+    {
+        "nom": "Wagnagnah le Sanglant",
+        "type": "Black Wabbit"
+    },
+    {
+        "nom": "Crognan le Barbare",
+        "type": "Croc gland enragé"
+    },
+    {
+        "nom": "Rostensyl la Cuisinière",
+        "type": "Rose Obscure"
+    },
+    {
+        "nom": "Minsinistre l'Elu",
+        "type": "Mineur Sombre"
+    },
+    {
+        "nom": "Barchwork le Multicolore",
+        "type": "Bwork Archer"
+    },
+    {
+        "nom": "Champayt l'Odorant",
+        "type": "Champa Bleu"
+    },
+    {
+        "nom": "Chamflay le Ballonné",
+        "type": "Champa Marron"
+    },
+    {
+        "nom": "Chamdblé le Cultivé",
+        "type": "Champa Rouge"
+    },
+    {
+        "nom": "Craquetuss le Piquant",
+        "type": "Craqueboule"
+    },
+    {
+        "nom": "Mandalo l'Aqueuse",
+        "type": "Mandrine"
+    },
+    {
+        "nom": "Kitsoupierre le Récipient",
+        "type": "Kitsou Nere"
+    },
+    {
+        "nom": "Garsim le Mort",
+        "type": "Gargrouille"
+    },
+    {
+        "nom": "Draglida la Disparue",
+        "type": "Dragodinde Amande Sauvage"
+    },
+    {
+        "nom": "Gelaviv le Glaçon",
+        "type": "Gelée Rouge"
+    },
+    {
+        "nom": "Watdogue le Bien Nommé",
+        "type": "Wabbit Squelette"
+    },
+    {
+        "nom": "Chafalfer l'Optimiste",
+        "type": "Chafer Invisible"
+    },
+    {
+        "nom": "Crakmitaine le Faucheur",
+        "type": "Craqueleur"
+    },
+    {
+        "nom": "Bworkasse le Dégoûtant",
+        "type": "Bwork"
+    },
+    {
+        "nom": "Abrakroc l'édenté",
+        "type": "Abraknyde"
+    },
+    {
+        "nom": "Krapahut le Randonneur",
+        "type": "Kraméléhon"
+    },
+    {
+        "nom": "Scapé l'Epée",
+        "type": "Scarafeuille Blanc"
+    },
+    {
+        "nom": "Scarfayss le Balafré",
+        "type": "Scarafeuille Bleu"
+    },
+    {
+        "nom": "Scarouarze l'Epopée",
+        "type": "Scarafeuille Rouge"
+    },
+    {
+        "nom": "Scaramel le Fondant",
+        "type": "Scarafeuille Vert"
+    },
+    {
+        "nom": "Ribibi le Cher",
+        "type": "Rib"
+    },
+    {
+        "nom": "Blorie l'Assourdissante",
+        "type": "Blop Coco"
+    },
+    {
+        "nom": "Blordur l'Infect",
+        "type": "Blop Griotte"
+    },
+    {
+        "nom": "Bloporte le Veule",
+        "type": "Blop Indigo"
+    },
+    {
+        "nom": "Blof l'Apathique",
+        "type": "Blop Reinette"
+    },
+    {
+        "nom": "Boombata le Garde",
+        "type": "Boomba"
+    },
+    {
+        "nom": "Farlon l'Enfant",
+        "type": "Cochon de Farle"
+    },
+    {
+        "nom": "Scaratyn l'huitre",
+        "type": "Scaratos"
+    },
+    {
+        "nom": "Chaffoin le Sournois",
+        "type": "Chafer Fantassin"
+    },
+    {
+        "nom": "Picht le Brioché",
+        "type": "Pichon Kloune"
+    },
+    {
+        "nom": "Tronkoneuz la Tranchante",
+        "type": "Tronknyde"
+    },
+    {
+        "nom": "Abrakadnuzar",
+        "type": "Abrakne"
+    },
+    {
+        "nom": "Chafemal le Bagarreur",
+        "type": "Chafer"
+    },
+    {
+        "nom": "Crolnareff l'Exilé",
+        "type": "Crocodaille"
+    },
+    {
+        "nom": "Radoutable le Craint",
+        "type": "Rat d'Egoutant malade"
+    },
+    {
+        "nom": "Radoutable le Craint",
+        "type": "Rat d'Egoutant malade"
+    },
+    {
+        "nom": "Scorpitène l'Enflammé",
+        "type": "Scorbute"
+    },
+    {
+        "nom": "Dragnoute l'Irascible",
+        "type": "Dragodinde Rousse Sauvage"
+    },
+    {
+        "nom": "Bulsavon le Gonflé",
+        "type": "Bulbuisson"
+    },
+    {
+        "nom": "Crustterus l'Organique",
+        "type": "Crustorail Kouraçao"
+    },
+    {
+        "nom": "Crustensyl le Pragmatique",
+        "type": "Crustorail Malibout"
+    },
+    {
+        "nom": "Cruskof le Rustre",
+        "type": "Crustorail Morito"
+    },
+    {
+        "nom": "Crusmeyer le Pervers",
+        "type": "Crustorail Passaoh"
+    },
+    {
+        "nom": "Forboyar l'Enigmatique",
+        "type": "Forgeron Sombre"
+    },
+    {
+        "nom": "Arakozette l'Intrépide",
+        "type": "Araknawa"
+    },
+    {
+        "nom": "Arabord la Cruche",
+        "type": "Arakne Majeure"
+    },
+    {
+        "nom": "Grandilok le Clameur",
+        "type": "Grand Pa Wabbit"
+    },
+    {
+        "nom": "Wokènrôl le Danseur",
+        "type": "Wo Wabbit"
+    },
+    {
+        "nom": "Cavordemal le Sorcier",
+        "type": "Cavalier Porkass"
+    },
+    {
+        "nom": "Aboudbra le Porteur",
+        "type": "Dopeul Osamodas"
+    },
+    {
+        "nom": "Ameur la Laide",
+        "type": "Dopeul Féca"
+    },
+    {
+        "nom": "Codenlgaz le Problème",
+        "type": "Dopeul Eniripsa"
+    },
+    {
+        "nom": "Ginsenk le Stimulant",
+        "type": "Dopeul Sadida"
+    },
+    {
+        "nom": "Kiroyal le Sirupeux",
+        "type": "Dopeul Ecaflip"
+    },
+    {
+        "nom": "Let le Rond",
+        "type": "Dopeul Cra"
+    },
+    {
+        "nom": "Nelvin le Boulet",
+        "type": "Dopeul Xélor"
+    },
+    {
+        "nom": "Nipulnislip l'Exibitionniste",
+        "type": "Dopeul Sram"
+    },
+    {
+        "nom": "Osuxion le Vampirique",
+        "type": "Dopeul Enutrof"
+    },
+    {
+        "nom": "Susbewl l'Hypocrite",
+        "type": "Dopeul Iop"
+    },
+    {
+        "nom": "Koktèle le Secoué",
+        "type": "Kokoko"
+    },
+    {
+        "nom": "Chafmarcel le Fêtard",
+        "type": "Chafer Archer"
+    },
+    {
+        "nom": "Chalan le Commerçant",
+        "type": "Chafer Lancier"
+    },
+    {
+        "nom": "Chamitant le Dillettante",
+        "type": "Chaman d'Egoutant"
+    },
+    {
+        "nom": "Doktopuss le Maléfique",
+        "type": "Dok Alako"
+    },
+    {
+        "nom": "Germinol l'Indigent",
+        "type": "Gamino"
+    },
+    {
+        "nom": "Koalastrof la Naturelle",
+        "type": "Koalak immature"
+    },
+    {
+        "nom": "Ouature la Mobile",
+        "type": "La Ouassingue"
+    },
+    {
+        "nom": "Ouassébo l'Esthète",
+        "type": "Le Ouassingue"
+    },
+    {
+        "nom": "Ouashouash l'Exubérant",
+        "type": "Le Ouassingue Entourbé"
+    },
+    {
+        "nom": "Palmito le Menteur",
+        "type": "Palmifleur Malibout"
+    },
+    {
+        "nom": "Palmiche le Serein",
+        "type": "Palmifleur Morito"
+    },
+    {
+        "nom": "Palmiflette le Convivial",
+        "type": "Palmifleur Passaoh"
+    },
+    {
+        "nom": "Sampi l'Eternel",
+        "type": "Sanglier Des Plaines"
+    },
+    {
+        "nom": "Pandimaensh l'Animateur",
+        "type": "Pandit"
+    },
+    {
+        "nom": "Chafrit le Barbare",
+        "type": "Chafer d'élite"
+    },
+    {
+        "nom": "Craquetou le Fissuré",
+        "type": "Craqueboule Poli"
+    },
+    {
+        "nom": "Maître Onom le Régulier",
+        "type": "Maître Bolet"
+    },
+    {
+        "nom": "Pandimy le Contagieux",
+        "type": "Pandikaze"
+    },
+    {
+        "nom": "Kannibal le Lecteur",
+        "type": "Kanniboule Archer"
+    },
+    {
+        "nom": "Kapota la Fraise",
+        "type": "Kanniboule Jav"
     }
 ]
     
